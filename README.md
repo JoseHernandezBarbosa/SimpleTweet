@@ -96,7 +96,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough_2' width='' alt='Video Walkthrough' />
+<img src='walkthrough_2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](http://www.screentogif.com).
 
